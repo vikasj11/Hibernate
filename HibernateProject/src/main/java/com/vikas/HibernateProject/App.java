@@ -6,7 +6,7 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 
 /**
- * Hello world! and welcome to new project
+ * Hello world!
  *
  */
 public class App 
